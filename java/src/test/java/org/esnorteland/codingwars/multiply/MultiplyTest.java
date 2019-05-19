@@ -1,4 +1,4 @@
-package org.esnorteland.multiply;
+package org.esnorteland.codingwars.multiply;
 
 import org.junit.Test;
 

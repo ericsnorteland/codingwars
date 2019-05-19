@@ -1,4 +1,4 @@
-package org.esnorteland.multiply;
+package org.esnorteland.codingwars.multiply;
 
 public class Multiply {
     public static Double multiply(Double a, Double b) {
